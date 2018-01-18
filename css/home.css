@@ -1,0 +1,43 @@
+header{
+	text-align: center;
+}
+
+.logoleao{
+	width: 60px;
+}
+
+section{
+	text-align: center;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 4%;
+}
+
+.row-educa{
+	background-color: blue;
+	font-size: 25px;
+}
+
+.row-art{
+	background-color: pink;
+	font-size: 25px;
+}
+
+.row-espor{
+	background-color: green;
+	font-size: 25px;
+}
+
+.row-tecno{
+	background-color: gray;
+	font-size: 25px;
+}
+
+.row-lazer{
+	background-color: yellow;
+	font-size: 25px;
+}
+
+.card{
+	display: inline-flex;
+}

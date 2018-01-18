@@ -7,8 +7,8 @@ body{
 header{
 	width: 100%;
 	height: 1000px;
-	margin-left: 0;
-	margin-right: 0;
+	margin-left: auto;
+	margin-right: auto;
 	display: flex;
 }
 
@@ -24,8 +24,8 @@ img{
 	width: 100%;
 	height: 15%;
 	background-color: black;
-	margin-left: 0;
-	margin-right: 0;
+	margin-left: auto;
+	margin-right: auto;
 	font-size: 22px;
 	padding-bottom: 0.5%;
 	margin-top: 1%;
@@ -37,14 +37,13 @@ img{
 	height: 80%;
 	background-color: #1E90FF;
 	text-align: center;
-	margin-left: 0;
-	margin-right: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 		/*VIDEO*/
 
 		/*SEGUNDA NAV*/
-
 
 .entrar{
 	font-size: 45px;
@@ -55,24 +54,27 @@ img{
 
 .footer{
 	width: 100%;
-	height: 1000px;
 	padding-bottom: 18%;
 	height: 0;
 	background-color: white;
 	margin-top: 1%;
 	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .master{
 	width: 250px;
-	margin-left: 0;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 25%;
 	text-align: center;
 }
 
 .hack{
 	width: 350px;
-	margin-left: 0;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 5%;
 	text-align: center;
 }
