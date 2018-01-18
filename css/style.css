@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+header{
+	width: 100%;
+	height: 1000px;
+	margin-left: 0;
+	margin-right: 0;
+	display: flex;
+}
+
+/*PRIMEIRA NAV*/
+
+img{
+	width: 40px;
+	margin-top: 0.6%;
+	padding-bottom: 1%;
+}
+
+.container-fluid{
+	width: 100%;
+	height: 15%;
+	background-color: black;
+	margin-left: 0;
+	margin-right: 0;
+	font-size: 22px;
+	padding-bottom: 0.5%;
+	margin-top: 1%;
+
+}
+
+.row{
+	width: 100%;
+	height: 80%;
+	background-color: #1E90FF;
+	text-align: center;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+		/*VIDEO*/
+
+		/*SEGUNDA NAV*/
+
+
+.entrar{
+	font-size: 45px;
+	color: black;
+}
+
+		/*FOOTER*/
+
+.footer{
+	width: 100%;
+	height: 1000px;
+	padding-bottom: 18%;
+	height: 0;
+	background-color: white;
+	margin-top: 1%;
+	justify-content: center;
+}
+
+.master{
+	width: 250px;
+	margin-left: 0;
+	margin-top: 25%;
+	text-align: center;
+}
+
+.hack{
+	width: 350px;
+	margin-left: 0;
+	margin-top: 5%;
+	text-align: center;
+}
