@@ -61,11 +61,11 @@ nav ul li a:hover{
 
 .container-carro{
 	width: 100%;
-	height: 56.4%;
+	height: 49.8%;
 }
 
 .new-size{
-	margin-top: 4.8%;
+	margin-top: 0;
 	position:center;
 	width:100%;
 	height:500px;
@@ -157,8 +157,8 @@ small{
 .row-agenda{
 	background-color: pink;
 	font-size: 25px;
-	margin-left: 18.8%; 
-	width: 62.5%;
+	margin-left: 6.4%; 
+	width: 87.3%;
 	margin-top: 0.8%;
 
 }
@@ -188,9 +188,17 @@ small{
 	color: #D2691E;
 }
 .card{
-	display: inline-flex;
 	margin-top: 0;
+	margin-left:;
+	display: inline-flex;
 }
+/*.card div, .card img{
+	display: none;	
+}
+.card.show div, .card.show img{
+	display: block;	
+}*/
+
 
 		/*FOOTER*/
 

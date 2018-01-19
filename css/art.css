@@ -1,0 +1,251 @@
+.bk{
+    background-color: rgba(255,255,255);
+}
+.section{
+    margin-top: 10%;
+    padding-bottom: 50%;
+
+}
+a{
+    color: black;
+}
+a:hover{
+    color: gray
+}
+.tema{
+    /*padding-bottom: 5%;*/
+    font-style: bold;
+    font-size: 84px;
+    background-image: url(imagens/reciclar.jpg);
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.fotinhoartes{
+    background-image: url(https://image.freepik.com/vetores-gratis/splatter-de-aguarela-em-cores-do-arco-iris_1048-6320.jpg);
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+
+}
+
+.fotinhoesportes{
+    background-image: url(https://image.freepik.com/fotos-gratis/mulher-pronta-para-a-corrida_1112-582.jpg);
+    background-size: 100% ; 
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+}
+
+
+.fotinholazer{
+    background-image: url(https://image.freepik.com/vetores-gratis/colecao-de-tira-de-filme-vetorial-3d_1017-8620.jpg);
+    background
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+}
+
+
+.fotinhotecno{
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+    background-image: url(https://image.freepik.com/vetores-gratis/futuro-fundo-da-tecnologia-abstrata_1406-110.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.fotinhoeducacao{
+    background-image: url(https://image.freepik.com/vetores-gratis/desenho-itens-escolares-em-um-notebook_23-2147496283.jpg);
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+
+}
+
+
+
+.listinha {
+    margin-top: 0.1%;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.divisao{
+
+    margin-bottom: 8%;
+}
+
+.lista1{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: green;
+    border-width: 3.9px 1px;
+}
+
+.lista2{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: blue;
+    border-width: 3.9px 1px;
+}
+.lista3{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: red;
+    border-width: 3.9px 1px;
+}
+.lista4{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: orange;
+    border-width: 3.9px 1px;
+}
+
+.multiescolha{
+    margin-top: -0.8%;
+    margin-bottom: 2%;
+    border-style: none;
+    border-color: #87CEFA;
+    border-width: medium;
+    font-size: 23px;
+
+}
+
+/* RESPONSIVIDADE*/
+@media(max-width: 650px){
+
+    .tema{
+        font-size: 60px;
+        margin-top: 15%;
+    }
+    .bk{
+    background-color: rgba(255,255,255);
+}
+.section{
+    margin-top: 10%;
+    padding-bottom: 50%;
+
+}
+a{
+    color: black;
+}
+a:hover{
+    color: gray
+}
+.tema{
+    /*padding-bottom: 5%;*/
+    font-style: bold;
+    font-size: 84px;
+    background-image: url(imagens/reciclar.jpg);
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.fotinhoartes{
+    background-image: url(https://image.freepik.com/vetores-gratis/splatter-de-aguarela-em-cores-do-arco-iris_1048-6320.jpg);
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+
+}
+
+.fotinhoesportes{
+    background-image: url(https://image.freepik.com/fotos-gratis/mulher-pronta-para-a-corrida_1112-582.jpg);
+    background-size: 100% ; 
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+}
+
+
+.fotinholazer{
+    background-image: url(https://image.freepik.com/vetores-gratis/colecao-de-tira-de-filme-vetorial-3d_1017-8620.jpg);
+    background
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+}
+
+
+.fotinhotecno{
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+    background-image: url(https://image.freepik.com/vetores-gratis/futuro-fundo-da-tecnologia-abstrata_1406-110.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.fotinhoeducacao{
+    background-image: url(https://image.freepik.com/vetores-gratis/desenho-itens-escolares-em-um-notebook_23-2147496283.jpg);
+    width: 100%;
+    padding-bottom: 6.5%;
+    margin-top: -2%;
+
+}
+
+
+
+.listinha {
+    margin-top: 0.1%;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.divisao{
+
+    margin-bottom: 8%;
+}
+
+.lista1{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: green;
+    border-width: 3.9px 1px;
+}
+
+.lista2{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: blue;
+    border-width: 3.9px 1px;
+}
+.lista3{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: red;
+    border-width: 3.9px 1px;
+}
+.lista4{
+    margin-bottom: 1.5%;
+/*  background-color: #00FFFF;*/
+    border-color: orange;
+    border-width: 3.9px 1px;
+}
+
+.multiescolha{
+    margin-top: -0.8%;
+    margin-bottom: 2%;
+    border-style: none;
+    border-color: #87CEFA;
+    border-width: medium;
+    font-size: 23px;
+
+}
+
+/* RESPONSIVIDADE*/
+@media(max-width: 650px){
+
+    .tema{
+        font-size: 60px;
+        margin-top: 15%;
+    }
+}
+
+
