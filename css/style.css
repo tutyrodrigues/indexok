@@ -2,6 +2,8 @@ body{
 	margin: 0;
 	padding: 0;
 	background-color: black;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
 }
 
 header{
@@ -26,9 +28,10 @@ img{
 	background-color: black;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 22px;
+	font-size: 34px;
 	padding-bottom: 0.5%;
 	margin-top: 1%;
+	color: black;
 
 }
 
@@ -49,6 +52,12 @@ img{
 	font-size: 45px;
 	color: black;
 }
+
+nav div a h1:hover{
+	color: #00008B;
+	text-decoration: none;
+}
+
 
 		/*FOOTER*/
 

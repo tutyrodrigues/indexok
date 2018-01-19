@@ -1,43 +1,224 @@
-header{
-	text-align: center;
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
 }
 
 .logoleao{
 	width: 60px;
 }
 
+			/*NAVE*/
+
+.logoleaonav{
+	width: 50px;
+	margin-top: 0.5%;
+	margin-left: 3%;
+}
+
+
+nav{
+    background-color: #1E90FF;
+    height: 10%;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    opacity: 0.9;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav ul{
+    float: right;
+    margin-top: 1.5%;
+    margin-right: 36%;
+
+}
+
+nav ul li{
+    display: inline;
+    margin: 14px;
+    color: white;
+}
+
+nav ul li a:hover{
+	color: #00008B;
+	text-decoration: none;
+}
+
+			/*CARROSSEL*/
+
+.carrossel{
+	width: 100%;
+	height: 1000px;
+}
+
+.container-carro{
+	width: 100%;
+	height: 60%;
+	background-color: black;
+}
+
+			/*HEADER*/
+
+header{
+	width: 100%;
+	height: 25%;
+	text-align: center;
+	margin-bottom: 2%;
+}
+
+.tituloheader{
+	font-size: 40px;
+	color: #1E90FF;
+}
+
+.subtitulo{
+	font-size: 20px;
+}
+
+
+			/*SECTIONS*/
+
 section{
+	width: 100%;
 	text-align: center;
 	padding-left: 1%;
 	padding-right: 1%;
-	padding-bottom: 4%;
+	padding-bottom: 1%;
+	margin-top: 5%;
+}
+
+small{
+	font-size: 15px;
+	float: right;
+	margin-bottom: 1%;
+	margin-top: 1.5%;
+}
+
+.imgeduca{
+	width: 970px;
 }
 
 .row-educa{
-	background-color: blue;
+	background-color: #1E90FF;
+	color: #00008B;
 	font-size: 25px;
+	margin-left: 6.4%; 
+	width: 87.3%;
 }
 
 .row-art{
 	background-color: pink;
+	color: #FF1493;
 	font-size: 25px;
+	margin-left: 6.4%; 
+	width: 87.3%;
+
 }
 
 .row-espor{
-	background-color: green;
+	background-color: #3CB371;
+	color: #006400;
 	font-size: 25px;
+	margin-left: 6.4%; 
+	width: 87.3%;
 }
 
 .row-tecno{
-	background-color: gray;
+	background-color: #D3D3D3;
+	color: #696969;
 	font-size: 25px;
+	margin-left: 6.4%; 
+	width: 87.3%;
 }
 
 .row-lazer{
-	background-color: yellow;
+	background-color: #F4A460;
+	color: #D2691E;
 	font-size: 25px;
+	margin-left: 6.4%; 
+	width: 87.3%;
 }
 
+.row-agenda{
+	background-color: pink;
+	font-size: 25px;
+	margin-left: 18.8%; 
+	width: 62.5%;
+	margin-top: 0.8%;
+
+}
+
+.agendaartes{
+	background-color: pink;
+	color: #FF1493;
+}
+
+.agendaeduca{
+	background-color: #1E90FF;
+	color: #00008B;
+}
+
+.agendaespor{
+	background-color: #3CB371;
+	color: #006400;
+}
+
+.agendatecno{
+	background-color: #D3D3D3;
+	color: #696969;
+}
+
+.agendalazer{
+	background-color: #F4A460;
+	color: #D2691E;
+}
 .card{
 	display: inline-flex;
+	margin-top: 0;
+}
+
+		/*FOOTER*/
+
+.linha{
+	width: 100%;
+	padding: 0.3%;
+	background-color: #1E90FF;
+	margin-top: 0;
+	margin-bottom: 1%;
+
+}	
+
+.footer{
+	width: 100%;
+	padding-bottom: 18%;
+	height: 0;
+	background-color: white;
+	margin-top: 1%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.master{
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+	text-align: center;
+}
+
+.hack{
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	text-align: center;
 }
