@@ -11,3 +11,7 @@ let frase = 'AGENDA CULTURAL';
         }
       }
       let intervalo = setInterval(exibirLetra, 230);
+
+ $('.carousel').carousel({
+  interval: 3000
+})
